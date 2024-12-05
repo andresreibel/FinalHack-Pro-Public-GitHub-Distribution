@@ -87,15 +87,6 @@ Love FinalHack Pro? Here's how you can help:
 - 🎁 Support development through the in-app donation option
 - 🔗 Share with others who might benefit
 
-## Security
-
-FinalHack Pro implements multiple security layers:
-
-- 🔐 Firebase Authentication
-- 🛡️ Secure Updates
-- 🔒 Protected Configuration
-- ⚡️ Runtime Security
-
 ---
 
 _FinalHack Pro_
