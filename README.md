@@ -6,7 +6,7 @@ Welcome to FinalHack Pro - your professional productivity companion! 🚀
 
 ### Step 1: Download
 
-Click the "Releases" tab above or [click here](https://github.com/andresreibel/FinalHack-Pro-Public-GitHub-Distribution/releases) to download the latest version.
+[Click here](https://github.com/andresreibel/FinalHack-Pro-Public-GitHub-Distribution/releases/download/v1.0.2/FinalHack-Pro-v1.0.2.zip) to download the latest version of FinalHack Pro.
 
 ### Step 2: Installation
 
