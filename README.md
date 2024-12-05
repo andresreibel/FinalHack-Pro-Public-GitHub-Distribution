@@ -79,7 +79,7 @@ By downloading and using FinalHack Pro, you agree to:
 - Comply with all applicable laws and regulations
 - Accept the terms outlined in the in-app legal disclaimer
 
-## Contributing
+## Contributions
 
 Love FinalHack Pro? Here's how you can help:
 
