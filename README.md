@@ -18,7 +18,7 @@ First, open Terminal:
 1. **Check .zip file**:
 
 ```bash
-xattr -d com.apple.quarantine ~/Downloads/FinalHack-Pro-v*.zip
+xattr -d com.apple.quarantine ~/Downloads/FinalHack-Pro-v*.zip 2>/dev/null || true
 ```
 
 2. **Extract the App**:
@@ -30,7 +30,7 @@ open ~/Downloads/FinalHack-Pro-v*.zip
 3. **Check FinalHack Pro app**:
 
 ```bash
-xattr -d com.apple.quarantine ~/Downloads/FinalHack\ Pro-v*.app
+xattr -d com.apple.quarantine ~/Downloads/FinalHack\ Pro-v*.app 2>/dev/null || true
 ```
 
 4. **Launch FinalHack Pro**:
